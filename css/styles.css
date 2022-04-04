@@ -232,7 +232,7 @@ a:hover {
   height: 140px;
   overflow: hidden;
   border: 9px solid rgba(0, 0, 0, 0.05);
-  margin: 0 auto;
+  margin: 50 auto;
 }
 #head .title {
   font-family: Alice, Georgia, serif;
